@@ -1,0 +1,9 @@
+oneline: 2.691330671310425 seconds
+classic_for: 3.583768129348755 seconds
+while_method: 7.804147481918335 seconds
+enumeration: 4.220376491546631 seconds
+for_range: 3.710693359375 seconds
+numpy_with_conversion: 5.366664171218872 seconds
+iterations: 6.413015604019165 seconds
+mapping: 7.99103307723999 seconds
+bitwise: 2.632362127304077 seconds
